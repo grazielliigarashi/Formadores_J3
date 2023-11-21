@@ -1,0 +1,13 @@
+{}
+.texto {
+    text-align: center;
+    color: rgb(226, 43, 137);
+    font-size: 20px;
+}
+#banner {
+    background-color: white;
+    width: 40%;
+    display: block;
+    padding: 10px;;
+    margin: 10px;
+}
