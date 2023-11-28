@@ -27,9 +27,23 @@ header {
     background-color: linear-gradient (#df0fd535, #de9fdb);
     color: rgba(108, 60, 105, 0.208);
 
-
-    
+   
 }
 .lista {
     color: #df0fd5;
+}
+.cabecalho-titulo{
+    text-align: center;
+    color: rgb(74, 3, 40);
+    font-size: 20px;
+}
+#Logo {
+    width: 10%;
+    padding: 5px;
+    background-color: rgba(255, 6, 238, 0.208);
+    margin: 20px;
+    border-radius: 10px;  
+}
+.cabecalho-titulo-Logo{
+    text-align: center
 }
