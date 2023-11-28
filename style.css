@@ -1,4 +1,20 @@
-{}
+
+body{
+    background-color: hsla(350, 100%, 88%, 0.592);
+
+}
+header {
+    padding: 20px;
+    background-color: rgb(236, 6, 113), 159, 88);
+    border-bottom:2px solid white;
+    font-size: 32px;
+    color: rgb(226,,43,137);
+}
+#titulo {
+    font-size: 30px;
+    text-align: center;
+    color:  rgb(83, 5, 49);
+}
 .texto {
     text-align: center;
     color: rgb(226, 43, 137);
@@ -8,6 +24,12 @@
     background-color: white;
     width: 40%;
     display: block;
-    padding: 10px;;
-    margin: 10px;
+    background-color: linear-gradient (#df0fd535, #de9fdb);
+    color: rgba(108, 60, 105, 0.208);
+
+
+    
+}
+.lista {
+    color: #df0fd5;
 }
